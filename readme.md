@@ -11,3 +11,5 @@
 2. 选择配置好环境的 conda环境 作为解释器
 3. 点击main.ipynb
 4. 自上到下依次执行
+
+如有问题，欢迎交流：northpoleforce@qq.com
